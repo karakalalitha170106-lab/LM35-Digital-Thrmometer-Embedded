@@ -2,7 +2,7 @@
 
 **Author**: karakalalitha170106-lab  
 **Project**: LM35 Digital Thermometer  
-**Date**: April 2026  
+**Date**: February 2026 
 **Status**: Completed
 
 ### 📝 Project Description
